@@ -4,7 +4,6 @@ node_modules/
 # Production and intermediate desktop/web builds
 build/
 dist/
-coverage/
 release/
 release-build/
 release-package-final/
@@ -50,9 +49,6 @@ yarn-debug.log*
 
 # OS & IDE temporary files
 .DS_Store
-*.log
-.env*
-!.env.example
 Thumbs.db
 .idea/
 .vscode/
