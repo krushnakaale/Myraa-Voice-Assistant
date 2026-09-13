@@ -330,7 +330,7 @@ _(Add your preferred Open Source License, e.g. MIT or Apache-2.0, prior to publi
 ## 👨‍💻 Author
 
 - **Krushna** — Creator & Lead Developer
-- GitHub: [@your-github-username](https://github.com/krushnakaale)
+- GitHub: [@krushnakaale](https://github.com/krushnakaale)
 
 ---
 
