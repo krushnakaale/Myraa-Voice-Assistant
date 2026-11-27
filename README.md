@@ -1,4 +1,6 @@
-# 🎙️ MYRAA — Autonomous AI Voice Assistant
+# 🎙️ MYRAA — AI Voice Assistant for Windows
+
+A desktop voice assistant project built with React, TypeScript, Electron, Python and Google Gemini Live Audio, with multilingual conversation and Windows automation.
 
 <div align="center">
 
